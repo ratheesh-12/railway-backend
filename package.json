@@ -1,0 +1,19 @@
+{
+  "name": "railway-backend",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ratheesh-12/railway-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ratheesh-12/railway-backend/issues"
+  },
+  "homepage": "https://github.com/ratheesh-12/railway-backend#readme",
+  "description": ""
+}
